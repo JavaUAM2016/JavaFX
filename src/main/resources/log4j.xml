@@ -10,7 +10,7 @@
         </layout>
     </appender>
 
-    <logger name="com.zenjava.examples">
+    <logger name="mx.edu.uam.demo.javafx">
         <level value="DEBUG"/>
     </logger>
 
